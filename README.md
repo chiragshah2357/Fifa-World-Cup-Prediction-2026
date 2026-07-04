@@ -1,5 +1,6 @@
 # 🏆 2026 FIFA World Cup Prediction Model
 
+![World Cup Poster](poster.jpg)
 ![World Cup 2026 Prediction](world_cup_2026_hero.png)
 
 ## 📖 1. Project Introduction and Overview
